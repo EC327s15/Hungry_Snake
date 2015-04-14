@@ -1,4 +1,4 @@
-# Project
+# Hungry Snake
 
 Title: Hungry Snake
 
